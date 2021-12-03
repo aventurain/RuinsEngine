@@ -1,0 +1,17 @@
+C:\Users\NEW\source\repos\RuinsEngine\RuinsEngine\bin\Debug\RuinsEngine.dll
+C:\Users\NEW\source\repos\RuinsEngine\RuinsEngine\bin\Debug\RuinsEngine.pdb
+C:\Users\NEW\source\repos\RuinsEngine\RuinsEngine\bin\Debug\LinAl.dll
+C:\Users\NEW\source\repos\RuinsEngine\RuinsEngine\bin\Debug\SFML.Audio.dll
+C:\Users\NEW\source\repos\RuinsEngine\RuinsEngine\bin\Debug\SFML.Graphics.dll
+C:\Users\NEW\source\repos\RuinsEngine\RuinsEngine\bin\Debug\SFML.System.dll
+C:\Users\NEW\source\repos\RuinsEngine\RuinsEngine\bin\Debug\SFML.Window.dll
+C:\Users\NEW\source\repos\RuinsEngine\RuinsEngine\bin\Debug\LinAl.pdb
+C:\Users\NEW\source\repos\RuinsEngine\RuinsEngine\bin\Debug\SFML.Audio.xml
+C:\Users\NEW\source\repos\RuinsEngine\RuinsEngine\bin\Debug\SFML.Graphics.xml
+C:\Users\NEW\source\repos\RuinsEngine\RuinsEngine\bin\Debug\SFML.System.xml
+C:\Users\NEW\source\repos\RuinsEngine\RuinsEngine\bin\Debug\SFML.Window.xml
+C:\Users\NEW\source\repos\RuinsEngine\RuinsEngine\obj\Debug\RuinsEngine.csproj.AssemblyReference.cache
+C:\Users\NEW\source\repos\RuinsEngine\RuinsEngine\obj\Debug\RuinsEngine.csproj.CoreCompileInputs.cache
+C:\Users\NEW\source\repos\RuinsEngine\RuinsEngine\obj\Debug\RuinsEngine.csproj.CopyComplete
+C:\Users\NEW\source\repos\RuinsEngine\RuinsEngine\obj\Debug\RuinsEngine.dll
+C:\Users\NEW\source\repos\RuinsEngine\RuinsEngine\obj\Debug\RuinsEngine.pdb

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "y6XXobSasn/0vZtH2jxKRNR3UcjmKbO7zgKWF4ZuV/CxRKVs8zHQ5h466YJWen+EV1vHGjqbEN8c9NVZfgADJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NEW\\source\\repos\\RuinsEngine\\EngineTest2\\EngineTest2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NEW\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\NEW\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
+    "C:\\Users\\NEW\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\NEW\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
+    "C:\\Users\\NEW\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\NEW\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
